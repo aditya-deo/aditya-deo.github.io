@@ -175,6 +175,7 @@ textarea{
 
 body{
     background-color: #ffffff;
+    overflow-x: hidden;
 }
 
 input[type=text], input[type=email] {
