@@ -156,9 +156,12 @@
   }
 
 .details{
-    padding: 1rem;
+    padding: 1.5rem;
 }
 
+.connect-with-me{
+    padding: 1rem;
+}
 #edu-pic{
     height: 35rem;
     width: 49rem;
